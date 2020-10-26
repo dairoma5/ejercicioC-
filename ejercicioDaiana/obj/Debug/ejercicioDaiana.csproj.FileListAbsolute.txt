@@ -1,0 +1,12 @@
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\obj\Debug\ejercicioDaiana.csprojAssemblyReference.cache
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\obj\Debug\ejercicioDaiana.csproj.CoreCompileInputs.cache
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\bin\Debug\ejercicioDaiana.exe.config
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\bin\Debug\ejercicioDaiana.exe
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\bin\Debug\ejercicioDaiana.pdb
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\bin\Debug\EntityFramework.dll
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\bin\Debug\EntityFramework.xml
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\obj\Debug\ejercicioDaiana.csproj.CopyComplete
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\obj\Debug\ejercicioDaiana.exe
+C:\Users\54934\Desktop\Daiana\EjercicioFantommer\ejercicioDaiana\ejercicioDaiana\obj\Debug\ejercicioDaiana.pdb

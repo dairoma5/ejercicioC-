@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="DB" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="DBContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Personas" EntityType="DB.Persona" />
+  </EntityContainer>
+  <EntityType Name="Persona">
+    <Key>
+      <PropertyRef Name="DNI" />
+    </Key>
+    <Property Name="DNI" Type="String" Nullable="false" annotation:StoreGeneratedPattern="None" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Altura" Type="Decimal" Nullable="false" />
+    <Property Name="Estado" Type="Boolean" Nullable="false" />
+  </EntityType>
+</Schema>
